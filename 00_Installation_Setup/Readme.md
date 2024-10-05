@@ -8,3 +8,21 @@
 
 ### Rust is installed now. Great !
 
+
+
+# Hello World
+
+- mkdir hello_world
+- cd hello_world
+- create a file `main.rs`
+
+```Rust
+fn main() {
+    println!("Hello World")
+}
+
+```
+
+- to execute the file
+- `rustc main.rs` to compile
+- ./main 
